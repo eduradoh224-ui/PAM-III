@@ -72,8 +72,8 @@ function LeadsScreen({ leads, selectedLead, setSelectedLead, navigate }) {
 }
 
 function TemplatesScreen({ navigate, setTone }) {
-  function useTemplate(template) { setTone(template.tone); navigate('compor') }
-  return <div className="content-panel templates-screen"><div className="screen-intro"><div><p className="eyebrow">BIBLIOTECA DA EQUIPE</p><h2>Mensagens que já funcionam</h2><p>Comece com uma estrutura pronta e adapte ao seu lead.</p></div><button className="outline-button"><Plus size={16} /> Novo template</button></div><div className="template-grid">{templates.map((template) => <article className="template-card" key={template.title}><div className="template-icon"><FileText size={18} /></div><div className="template-card-body"><div className="template-card-top"><span className="template-tag">{template.tone}</span><span className="template-uses">{template.uses} usos</span></div><h3>{template.title}</h3><p>{template.description}</p><button className="template-action" onClick={() => useTemplate(template)}>Usar template <ArrowRight size={14} /></button></div></article>)}</div></div>
+  function handleUseTemplate(template) { setTone(template.tone); navigate('compor') }
+  return <div className="content-panel templates-screen"><div className="screen-intro"><div><p className="eyebrow">BIBLIOTECA DA EQUIPE</p><h2>Mensagens que já funcionam</h2><p>Comece com uma estrutura pronta e adapte ao seu lead.</p></div><button className="outline-button"><Plus size={16} /> Novo template</button></div><div className="template-grid">{templates.map((template) => <article className="template-card" key={template.title}><div className="template-icon"><FileText size={18} /></div><div className="template-card-body"><div className="template-card-top"><span className="template-tag">{template.tone}</span><span className="template-uses">{template.uses} usos</span></div><h3>{template.title}</h3><p>{template.description}</p><button className="template-action" onClick={() => handleUseTemplate(template)}>Usar template <ArrowRight size={14} /></button></div></article>)}</div></div>
 }
 
 export default App
