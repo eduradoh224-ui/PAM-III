@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { ArrowRight, Check, ChevronDown, Copy, FileText, Gauge, LayoutDashboard, MessageCircle, MoreHorizontal, Plus, Search, Send, Sparkles, Users, Zap } from 'lucide-react'
+import { useNavigation } from './navigation/useNavigation'
 import './App.css'
 
 const leads = [
@@ -16,7 +17,7 @@ const templates = [
 ]
 
 function App() {
-  const [screen, setScreen] = useState('compor')
+  const { screen, navigate } = useNavigation()
   const [selectedLead, setSelectedLead] = useState(leads[0])
   const [tone, setTone] = useState('Consultivo')
   const [notes, setNotes] = useState('')
@@ -29,7 +30,6 @@ function App() {
     return `${intro}\n\nVi que você se interessou pelo ${selectedLead.vehicle}. Ele chegou recentemente e está em excelente estado, com histórico de revisões em dia.\n\n${notes ? `Anotei também: ${notes}\n\n` : ''}${ending}\n\nAbraço,\nLucas | Auto Forja Company`
   }, [selectedLead, tone, notes])
   function copyMessage() { navigator.clipboard?.writeText(message); setCopied(true); window.setTimeout(() => setCopied(false), 1800) }
-  const navigate = (nextScreen) => setScreen(nextScreen)
   return <div className="app-shell">
     <aside className="sidebar">
       <div className="brand"><span className="brand-mark"><Zap size={16} fill="currentColor" /></span>auto forja</div>
