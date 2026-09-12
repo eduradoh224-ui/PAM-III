@@ -1,0 +1,560 @@
+{"_e":"root:init","_t":1789172538659,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789172538661,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789172538663,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789172538986,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789172539392,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789172540292,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789172546051,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:server_log","_t":1789172546139,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM-III/forja-shop/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:bundling:started","_t":1789172558146,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789172558146,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789172558160,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789172558664,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789172558765,"id":"1","progress":0.09,"total":8,"current":3}
+{"_e":"metro:bundling:progress","_t":1789172558903,"id":"1","progress":0.09,"total":23,"current":5}
+{"_e":"metro:bundling:progress","_t":1789172559006,"id":"1","progress":0.09,"total":39,"current":10}
+{"_e":"metro:bundling:progress","_t":1789172559118,"id":"1","progress":0.09,"total":65,"current":16}
+{"_e":"metro:bundling:progress","_t":1789172559232,"id":"1","progress":0.09,"total":74,"current":20}
+{"_e":"metro:bundling:progress","_t":1789172559343,"id":"1","progress":0.14173010380622836,"total":85,"current":32}
+{"_e":"metro:bundling:progress","_t":1789172559444,"id":"1","progress":0.22437673130193903,"total":95,"current":45}
+{"_e":"metro:bundling:progress","_t":1789172559558,"id":"1","progress":0.3110207100591716,"total":104,"current":58}
+{"_e":"metro:bundling:progress","_t":1789172559667,"id":"1","progress":0.3876824492702029,"total":106,"current":66}
+{"_e":"metro:bundling:progress","_t":1789172559772,"id":"1","progress":0.46045918367346944,"total":112,"current":76}
+{"_e":"metro:bundling:progress","_t":1789172559896,"id":"1","progress":0.47265625,"total":112,"current":77}
+{"_e":"metro:bundling:progress","_t":1789172559996,"id":"1","progress":0.47265625,"total":121,"current":83}
+{"_e":"metro:bundling:progress","_t":1789172560123,"id":"1","progress":0.517963728191001,"total":132,"current":95}
+{"_e":"metro:bundling:progress","_t":1789172560227,"id":"1","progress":0.6149267636250711,"total":139,"current":109}
+{"_e":"metro:bundling:progress","_t":1789172560328,"id":"1","progress":0.6684167275383491,"total":148,"current":121}
+{"_e":"metro:bundling:progress","_t":1789172560436,"id":"1","progress":0.6684167275383491,"total":157,"current":128}
+{"_e":"metro:bundling:progress","_t":1789172560542,"id":"1","progress":0.7925342058298632,"total":164,"current":146}
+{"_e":"metro:bundling:progress","_t":1789172560669,"id":"1","progress":0.8740590315465144,"total":169,"current":158}
+{"_e":"metro:bundling:progress","_t":1789172560776,"id":"1","progress":0.8775597833267275,"total":174,"current":163}
+{"_e":"metro:bundling:progress","_t":1789172560875,"id":"1","progress":0.8775597833267275,"total":201,"current":174}
+{"_e":"metro:bundling:progress","_t":1789172560975,"id":"1","progress":0.8775597833267275,"total":202,"current":186}
+{"_e":"metro:bundling:progress","_t":1789172561076,"id":"1","progress":0.8775597833267275,"total":202,"current":189}
+{"_e":"metro:bundling:progress","_t":1789172561176,"id":"1","progress":0.9520454331228203,"total":206,"current":201}
+{"_e":"metro:bundling:progress","_t":1789172562805,"id":"1","progress":0.9615420869073429,"total":206,"current":202}
+{"_e":"metro:bundling:progress","_t":1789172562912,"id":"1","progress":0.9631368307193077,"total":215,"current":211}
+{"_e":"metro:bundling:progress","_t":1789172563021,"id":"1","progress":0.9815672153635115,"total":216,"current":214}
+{"_e":"metro:bundling:done","_t":1789172563291,"id":"1","total":216,"ms":5145.1721}
+{"_e":"metro:client_log","_t":1789172567114,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789172567115,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789172594712,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789172594713,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789172594763,"id":"3","total":1,"ms":50.632995}
+{"_e":"metro:client_log","_t":1789172596410,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789172596411,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789172760130,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789172760130,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789172760146,"id":"5","total":1,"ms":16.508423}
+{"_e":"metro:client_log","_t":1789172761635,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789172761635,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789172806547,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789172806547,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789172806634,"id":"7","total":1,"ms":86.795305}
+{"_e":"metro:client_log","_t":1789172808408,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789172808408,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:failed","_t":1789172834882,"id":null,"message":"Unable to resolve \"./screens/HomeScreen\" from \"App.js\"\n  3 | import { createNativeStackNavigator } from '@react-navigation/native-stack';\n  4 |\n> 5 | import HomeScreen from './screens/HomeScreen';\n    |                         ^\n  6 | import ProductsScreen from './screens/ProductsScreen';\n  7 | import ProductDetailsScreen from './screens/ProductDetailsScreen';\n  8 | import CartScreen from './screens/CartScreen';","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/HomeScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./screens/HomeScreen","originModulePath":"App.js"}
+{"_e":"metro:client_log","_t":1789172835022,"level":"error","data":["[UnableToResolveError: Unable to resolve module ./screens/HomeScreen from /workspaces/PAM-III/forja-shop/App.js: \n\nNone of these files exist:\n  * screens/HomeScreen(.web.ts|.ts|.web.tsx|.tsx|.web.mjs|.mjs|.web.js|.js|.web.jsx|.jsx|.web.json|.json|.web.cjs|.cjs|.web.scss|.scss|.web.sass|.sass|.web.css|.css)\n  * screens/HomeScreen\n  3 | import { createNativeStackNavigator } from '@react-navigation/native-stack';\n  4 |\n> 5 | import HomeScreen from './screens/HomeScreen';\n    |                         ^\n  6 | import ProductsScreen from './screens/ProductsScreen';\n  7 | import ProductDetailsScreen from './screens/ProductDetailsScreen';\n  8 | import CartScreen from './screens/CartScreen';]"]}
+{"_e":"metro:client_log","_t":1789172841493,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:bundling:started","_t":1789173013891,"id":"9","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useLinkBuilder.js"}
+{"_e":"metro:bundling:started","_t":1789173014319,"id":"a","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationIndependentTree.js"}
+{"_e":"metro:bundling:started","_t":1789173014595,"id":"b","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/NativeAnimatedModule.js"}
+{"_e":"metro:bundling:started","_t":1789173014756,"id":"c","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/createRouteFromAction.js"}
+{"_e":"metro:bundling:started","_t":1789173014757,"id":"d","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useThenable.js"}
+{"_e":"metro:bundling:started","_t":1789173015027,"id":"e","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/CurrentRenderContext.js"}
+{"_e":"metro:bundling:started","_t":1789173015197,"id":"f","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useOnGetState.js"}
+{"_e":"metro:bundling:started","_t":1789173015198,"id":"g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/Group.js"}
+{"_e":"metro:bundling:started","_t":1789173015199,"id":"h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationContainerRef.js"}
+{"_e":"metro:bundling:started","_t":1789173015199,"id":"i","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useRoute.js"}
+{"_e":"metro:bundling:started","_t":1789173015200,"id":"j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getStateFromPath.js"}
+{"_e":"metro:bundling:started","_t":1789173015375,"id":"k","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/isRecordEqual.js"}
+{"_e":"metro:bundling:started","_t":1789173015377,"id":"l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/UnhandledLinkingContext.js"}
+{"_e":"metro:bundling:started","_t":1789173015378,"id":"m","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/Screen.js"}
+{"_e":"metro:bundling:started","_t":1789173015581,"id":"n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useFocusEffect.js"}
+{"_e":"metro:bundling:started","_t":1789173015657,"id":"o","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useScrollToTop.js"}
+{"_e":"metro:bundling:started","_t":1789173016109,"id":"p","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Text.js"}
+{"_e":"metro:bundling:started","_t":1789173016181,"id":"r","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/BaseRouter.js"}
+{"_e":"metro:bundling:started","_t":1789173016393,"id":"t","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/theming/fonts.js"}
+{"_e":"metro:bundling:started","_t":1789173016399,"id":"u","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/SwitchRouter.js"}
+{"_e":"metro:bundling:started","_t":1789173016403,"id":"v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationCache.js"}
+{"_e":"metro:bundling:started","_t":1789173016405,"id":"w","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/usePreventRemoveContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016406,"id":"x","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/VirtualizedListCellRenderer.js"}
+{"_e":"metro:bundling:started","_t":1789173016406,"id":"y","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:started","_t":1789173016477,"id":"z","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useFocusedListenersChildrenAdapter.js"}
+{"_e":"metro:bundling:started","_t":1789173016478,"id":"10","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016479,"id":"11","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useScheduleUpdate.js"}
+{"_e":"metro:bundling:started","_t":1789173016480,"id":"12","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/checkDuplicateRouteNames.js"}
+{"_e":"metro:bundling:started","_t":1789173016538,"id":"13","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016539,"id":"14","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/BaseNavigationContainer.js"}
+{"_e":"metro:bundling:started","_t":1789173016540,"id":"15","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/createNavigatorFactory.js"}
+{"_e":"metro:bundling:started","_t":1789173016542,"id":"16","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationHelpersContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016542,"id":"17","platform":"web","environment":null,"entry":"node_modules/fast-deep-equal/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016543,"id":"18","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/EnsureSingleNavigator.js"}
+{"_e":"metro:bundling:started","_t":1789173016543,"id":"19","platform":"web","environment":null,"entry":"node_modules/nanoid/non-secure/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016544,"id":"1a","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/LinkingContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016544,"id":"1b","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationMetaContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016545,"id":"1c","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useDocumentTitle.js"}
+{"_e":"metro:bundling:started","_t":1789173016545,"id":"1d","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/validatePathConfig.js"}
+{"_e":"metro:bundling:started","_t":1789173016668,"id":"1e","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/types.js"}
+{"_e":"metro:bundling:started","_t":1789173016671,"id":"1f","platform":"web","environment":null,"entry":"node_modules/query-string/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016671,"id":"1g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/theming/useTheme.js"}
+{"_e":"metro:bundling:started","_t":1789173016672,"id":"1h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationIndependentTree.js"}
+{"_e":"metro:bundling:started","_t":1789173016673,"id":"1i","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useOnRouteFocus.js"}
+{"_e":"metro:bundling:started","_t":1789173016674,"id":"1j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/findFocusedRoute.js"}
+{"_e":"metro:bundling:started","_t":1789173016676,"id":"1k","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getFocusedRouteNameFromRoute.js"}
+{"_e":"metro:bundling:started","_t":1789173016676,"id":"1l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useBackButton.js"}
+{"_e":"metro:bundling:started","_t":1789173016677,"id":"1m","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/theming/ThemeProvider.js"}
+{"_e":"metro:bundling:started","_t":1789173016677,"id":"1n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native-stack/lib/module/views/NativeStackView.js"}
+{"_e":"metro:bundling:started","_t":1789173016678,"id":"1o","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useOnAction.js"}
+{"_e":"metro:bundling:started","_t":1789173016684,"id":"1p","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/types.js"}
+{"_e":"metro:bundling:started","_t":1789173016684,"id":"1q","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedFlatList.js"}
+{"_e":"metro:bundling:started","_t":1789173016685,"id":"1r","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/arrayStartsWith.js"}
+{"_e":"metro:bundling:started","_t":1789173016685,"id":"1s","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016686,"id":"1t","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/PreventRemoveContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016687,"id":"1u","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/node_modules/react-is/cjs/react-is.development.js"}
+{"_e":"metro:bundling:started","_t":1789173016687,"id":"1v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016687,"id":"1w","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/DeprecatedNavigationInChildContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016688,"id":"1x","platform":"web","environment":null,"entry":"node_modules/strict-uri-encode/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016688,"id":"1y","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/I18nManager/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016689,"id":"1z","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/checkSerializable.js"}
+{"_e":"metro:bundling:started","_t":1789173016690,"id":"20","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useLinkTo.js"}
+{"_e":"metro:bundling:started","_t":1789173016713,"id":"22","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationProvider.js"}
+{"_e":"metro:bundling:started","_t":1789173016714,"id":"23","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useLazyValue.js"}
+{"_e":"metro:bundling:started","_t":1789173016714,"id":"24","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useKeyedChildListeners.js"}
+{"_e":"metro:bundling:started","_t":1789173016721,"id":"25","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationBuilderContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016726,"id":"26","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/DrawerRouter.js"}
+{"_e":"metro:bundling:started","_t":1789173016727,"id":"27","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/PreventRemoveProvider.js"}
+{"_e":"metro:bundling:started","_t":1789173016727,"id":"28","platform":"web","environment":null,"entry":"node_modules/filter-obj/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016728,"id":"29","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/TabRouter.js"}
+{"_e":"metro:bundling:started","_t":1789173016728,"id":"2a","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useOnPreventRemove.js"}
+{"_e":"metro:bundling:started","_t":1789173016728,"id":"2b","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationFocusedRouteStateContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016729,"id":"2c","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationContainerRefContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016729,"id":"2d","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/createNavigationContainerRef.js"}
+{"_e":"metro:bundling:started","_t":1789173016729,"id":"2e","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useRegisterNavigator.js"}
+{"_e":"metro:bundling:started","_t":1789173016730,"id":"2f","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useFocusEvents.js"}
+{"_e":"metro:bundling:started","_t":1789173016735,"id":"2g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/createParamsFromAction.js"}
+{"_e":"metro:bundling:started","_t":1789173016736,"id":"2h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useComponent.js"}
+{"_e":"metro:bundling:started","_t":1789173016736,"id":"2i","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useSyncState.js"}
+{"_e":"metro:bundling:started","_t":1789173016737,"id":"2j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/createMemoryHistory.js"}
+{"_e":"metro:bundling:started","_t":1789173016739,"id":"2k","platform":"web","environment":null,"entry":"node_modules/decode-uri-component/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016740,"id":"2l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/node_modules/react-is/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016740,"id":"2m","platform":"web","environment":null,"entry":"node_modules/use-latest-callback/esm.mjs"}
+{"_e":"metro:bundling:started","_t":1789173016740,"id":"2n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationStateContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016743,"id":"2o","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useIsFocused.js"}
+{"_e":"metro:bundling:started","_t":1789173016758,"id":"2p","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationState.js"}
+{"_e":"metro:bundling:started","_t":1789173016759,"id":"2q","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/ServerContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016761,"id":"2r","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useRoutePath.js"}
+{"_e":"metro:bundling:started","_t":1789173016762,"id":"2s","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useLinking.js"}
+{"_e":"metro:bundling:started","_t":1789173016762,"id":"2t","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/StackRouter.js"}
+{"_e":"metro:bundling:started","_t":1789173016763,"id":"2u","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationBuilder.js"}
+{"_e":"metro:bundling:started","_t":1789173016765,"id":"2v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016766,"id":"2w","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/UnhandledActionContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016766,"id":"2x","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native-stack/lib/module/navigators/createNativeStackNavigator.js"}
+{"_e":"metro:bundling:started","_t":1789173016766,"id":"2y","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useOptionsGetters.js"}
+{"_e":"metro:bundling:started","_t":1789173016767,"id":"2z","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/Link.js"}
+{"_e":"metro:bundling:started","_t":1789173016769,"id":"30","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/LocaleDirContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016770,"id":"31","platform":"web","environment":null,"entry":"node_modules/use-latest-callback/lib/src/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016770,"id":"32","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/StaticContainer.js"}
+{"_e":"metro:bundling:started","_t":1789173016771,"id":"33","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useLinkProps.js"}
+{"_e":"metro:bundling:started","_t":1789173016773,"id":"34","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/createStandardNavigationFactories.js"}
+{"_e":"metro:bundling:started","_t":1789173016774,"id":"35","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useCurrentRender.js"}
+{"_e":"metro:bundling:started","_t":1789173016774,"id":"36","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/ServerContainer.js"}
+{"_e":"metro:bundling:started","_t":1789173016781,"id":"37","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getPathFromState.js"}
+{"_e":"metro:bundling:started","_t":1789173016782,"id":"38","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/createStaticNavigation.js"}
+{"_e":"metro:bundling:started","_t":1789173016782,"id":"39","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/FlatList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016783,"id":"3a","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/FlatList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016785,"id":"3b","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/usePreventRemove.js"}
+{"_e":"metro:bundling:started","_t":1789173016785,"id":"3c","platform":"web","environment":null,"entry":"node_modules/escape-string-regexp/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016786,"id":"3d","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useClientLayoutEffect.js"}
+{"_e":"metro:bundling:started","_t":1789173016796,"id":"3e","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useMemoArray.js"}
+{"_e":"metro:bundling:started","_t":1789173016829,"id":"3f","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/StaticNavigation.js"}
+{"_e":"metro:bundling:started","_t":1789173016832,"id":"3g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigation.js"}
+{"_e":"metro:bundling:started","_t":1789173016833,"id":"3h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/theming/ThemeContext.js"}
+{"_e":"metro:bundling:started","_t":1789173016833,"id":"3i","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getPatternParts.js"}
+{"_e":"metro:bundling:started","_t":1789173016961,"id":"3j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useLocale.js"}
+{"_e":"metro:bundling:started","_t":1789173016962,"id":"3k","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173016963,"id":"3l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useRouteCache.js"}
+{"_e":"metro:bundling:started","_t":1789173016964,"id":"3m","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useChildListeners.js"}
+{"_e":"metro:bundling:started","_t":1789173016965,"id":"3n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getActionFromState.js"}
+{"_e":"metro:bundling:started","_t":1789173016967,"id":"3p","platform":"web","environment":null,"entry":"node_modules/split-on-first/index.js"}
+{"_e":"metro:bundling:started","_t":1789173017088,"id":"3q","platform":"web","environment":null,"entry":"node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js"}
+{"_e":"metro:bundling:started","_t":1789173017089,"id":"3r","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/getStateFromRouteParams.js"}
+{"_e":"metro:bundling:started","_t":1789173017254,"id":"3s","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/theming/DarkTheme.js"}
+{"_e":"metro:bundling:started","_t":1789173017295,"id":"3t","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useDescriptors.js"}
+{"_e":"metro:bundling:started","_t":1789173017664,"id":"3v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/routers/lib/module/CommonActions.js"}
+{"_e":"metro:bundling:started","_t":1789173018069,"id":"3w","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/useDeepStableValue.js"}
+{"_e":"metro:bundling:started","_t":1789173018145,"id":"3x","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/dismissKeyboard/index.js"}
+{"_e":"metro:bundling:started","_t":1789173018146,"id":"3y","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/deepFreeze.js"}
+{"_e":"metro:bundling:started","_t":1789173018263,"id":"3z","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/NavigationIndependentTreeContext.js"}
+{"_e":"metro:bundling:started","_t":1789173018467,"id":"40","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/ScrollView/ScrollViewBase.js"}
+{"_e":"metro:bundling:started","_t":1789173018468,"id":"41","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/InteractionManager/index.js"}
+{"_e":"metro:bundling:started","_t":1789173018469,"id":"42","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/CellRenderMask.js"}
+{"_e":"metro:bundling:started","_t":1789173018473,"id":"43","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/theming/DefaultTheme.js"}
+{"_e":"metro:bundling:started","_t":1789173018640,"id":"44","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/ChildListCollection.js"}
+{"_e":"metro:bundling:started","_t":1789173018641,"id":"45","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/StateSafePureComponent.js"}
+{"_e":"metro:bundling:started","_t":1789173018641,"id":"46","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/NativeAnimatedTurboModule.js"}
+{"_e":"metro:bundling:started","_t":1789173018642,"id":"47","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useNavigationHelpers.js"}
+{"_e":"metro:bundling:started","_t":1789173018961,"id":"48","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/SectionList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173018962,"id":"49","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/types.js"}
+{"_e":"metro:bundling:started","_t":1789173018985,"id":"4a","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedDiffClamp.js"}
+{"_e":"metro:bundling:started","_t":1789173018987,"id":"4b","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedDivision.js"}
+{"_e":"metro:bundling:started","_t":1789173018987,"id":"4c","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedMultiplication.js"}
+{"_e":"metro:bundling:started","_t":1789173018988,"id":"4d","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/animations/SpringAnimation.js"}
+{"_e":"metro:bundling:started","_t":1789173018988,"id":"4e","platform":"web","environment":null,"entry":"node_modules/color-name/index.js"}
+{"_e":"metro:bundling:started","_t":1789173018989,"id":"4f","platform":"web","environment":null,"entry":"node_modules/color-convert/conversions.js"}
+{"_e":"metro:bundling:started","_t":1789173018989,"id":"4g","platform":"web","environment":null,"entry":"node_modules/color-convert/route.js"}
+{"_e":"metro:bundling:started","_t":1789173018990,"id":"4h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/Header.js"}
+{"_e":"metro:bundling:started","_t":1789173018990,"id":"4i","platform":"web","environment":null,"entry":"node_modules/is-arrayish/index.js"}
+{"_e":"metro:bundling:started","_t":1789173018990,"id":"4j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/SafeAreaProviderCompat.js"}
+{"_e":"metro:bundling:started","_t":1789173018993,"id":"4k","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Label/Label.js"}
+{"_e":"metro:bundling:started","_t":1789173018994,"id":"4l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useStateForPath.js"}
+{"_e":"metro:bundling:started","_t":1789173019053,"id":"4m","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/isArrayEqual.js"}
+{"_e":"metro:bundling:started","_t":1789173019077,"id":"4n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/ConsumedParamsContext.js"}
+{"_e":"metro:bundling:started","_t":1789173019111,"id":"4o","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Background.js"}
+{"_e":"metro:bundling:started","_t":1789173019133,"id":"4p","platform":"web","environment":null,"entry":"screens/CartScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173019134,"id":"4q","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/SceneView.js"}
+{"_e":"metro:bundling:started","_t":1789173019160,"id":"4r","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1789173019160,"id":"4s","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native/lib/module/NavigationContainer.js"}
+{"_e":"metro:bundling:started","_t":1789173019174,"id":"4t","platform":"web","environment":null,"entry":"components/CategoryButton.js"}
+{"_e":"metro:bundling:started","_t":1789173019174,"id":"4u","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/InteractionManager/TaskQueue.js"}
+{"_e":"metro:bundling:started","_t":1789173019175,"id":"4v","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/useAnimatedProps.js"}
+{"_e":"metro:bundling:started","_t":1789173019175,"id":"4w","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedProps.js"}
+{"_e":"metro:bundling:started","_t":1789173019176,"id":"4x","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/Animated/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019400,"id":"4y","platform":"web","environment":null,"entry":"components/ProductCard.js"}
+{"_e":"metro:bundling:started","_t":1789173019400,"id":"4z","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedValue.js"}
+{"_e":"metro:bundling:started","_t":1789173019401,"id":"50","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native-stack/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019469,"id":"51","platform":"web","environment":null,"entry":"node_modules/react-native-web/node_modules/memoize-one/dist/memoize-one.esm.js"}
+{"_e":"metro:bundling:started","_t":1789173019470,"id":"52","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedWithChildren.js"}
+{"_e":"metro:bundling:started","_t":1789173019470,"id":"53","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Utilities/useMergeRefs.js"}
+{"_e":"metro:bundling:started","_t":1789173019471,"id":"54","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedView.js"}
+{"_e":"metro:bundling:started","_t":1789173019471,"id":"55","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedNode.js"}
+{"_e":"metro:bundling:started","_t":1789173019473,"id":"56","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/AnimatedMock.js"}
+{"_e":"metro:bundling:started","_t":1789173019473,"id":"57","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Utilities/useRefEffect.js"}
+{"_e":"metro:bundling:started","_t":1789173019474,"id":"58","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/bezier.js"}
+{"_e":"metro:bundling:started","_t":1789173019476,"id":"59","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/Easing.js"}
+{"_e":"metro:bundling:started","_t":1789173019476,"id":"5a","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Badge.js"}
+{"_e":"metro:bundling:started","_t":1789173019477,"id":"5b","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/useHover/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019477,"id":"5c","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/modality/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019478,"id":"5d","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/useEvent/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019478,"id":"5e","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/usePressEvents/PressResponder.js"}
+{"_e":"metro:bundling:started","_t":1789173019478,"id":"5f","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/usePressEvents/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019479,"id":"5g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/getDefaultHeaderHeight.js"}
+{"_e":"metro:bundling:started","_t":1789173019479,"id":"5h","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/useFrameSize.js"}
+{"_e":"metro:bundling:started","_t":1789173019480,"id":"5i","platform":"web","environment":null,"entry":"node_modules/@react-navigation/core/lib/module/useEventEmitter.js"}
+{"_e":"metro:bundling:started","_t":1789173019526,"id":"5j","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/Animated.js"}
+{"_e":"metro:bundling:started","_t":1789173019585,"id":"5k","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/RefreshControl/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019667,"id":"5l","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/deepDiffer/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019745,"id":"5m","platform":"web","environment":null,"entry":"node_modules/use-sync-external-store/cjs/use-sync-external-store-with-selector.development.js"}
+{"_e":"metro:bundling:started","_t":1789173019745,"id":"5n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/getNamedContext.js"}
+{"_e":"metro:bundling:started","_t":1789173019746,"id":"5o","platform":"web","environment":null,"entry":"node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js"}
+{"_e":"metro:bundling:started","_t":1789173019799,"id":"5p","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderBackButton.js"}
+{"_e":"metro:bundling:started","_t":1789173019800,"id":"5q","platform":"web","environment":null,"entry":"node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js"}
+{"_e":"metro:bundling:started","_t":1789173019841,"id":"5r","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/ScrollView/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019868,"id":"5s","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderIcon.js"}
+{"_e":"metro:bundling:started","_t":1789173019869,"id":"5t","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/Dimensions/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019913,"id":"5u","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/TextInputState/index.js"}
+{"_e":"metro:bundling:started","_t":1789173019953,"id":"5v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderBackground.js"}
+{"_e":"metro:bundling:started","_t":1789173019953,"id":"5w","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderSearchBar.js"}
+{"_e":"metro:bundling:started","_t":1789173019954,"id":"5x","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderTitle.js"}
+{"_e":"metro:bundling:started","_t":1789173019955,"id":"5y","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderShownContext.js"}
+{"_e":"metro:bundling:started","_t":1789173019955,"id":"5z","platform":"web","environment":null,"entry":"node_modules/fbjs/lib/emptyFunction.js"}
+{"_e":"metro:bundling:started","_t":1789173020153,"id":"60","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/TextInput/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020154,"id":"61","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/useHeaderHeight.js"}
+{"_e":"metro:bundling:started","_t":1789173020154,"id":"62","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/types.js"}
+{"_e":"metro:bundling:started","_t":1789173020155,"id":"63","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Screen.js"}
+{"_e":"metro:bundling:started","_t":1789173020155,"id":"64","platform":"web","environment":null,"entry":"screens/ProductDetailsScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173020155,"id":"65","platform":"web","environment":null,"entry":"node_modules/fbjs/lib/warning.js"}
+{"_e":"metro:bundling:started","_t":1789173020222,"id":"66","platform":"web","environment":null,"entry":"data/products.js"}
+{"_e":"metro:bundling:started","_t":1789173020222,"id":"67","platform":"web","environment":null,"entry":"screens/HomeScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173020222,"id":"68","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/AnimatedEvent.js"}
+{"_e":"metro:bundling:started","_t":1789173020223,"id":"69","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedStyle.js"}
+{"_e":"metro:bundling:started","_t":1789173020223,"id":"6a","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedTransform.js"}
+{"_e":"metro:bundling:started","_t":1789173020223,"id":"6b","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedText.js"}
+{"_e":"metro:bundling:started","_t":1789173020224,"id":"6c","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/SpringConfig.js"}
+{"_e":"metro:bundling:started","_t":1789173020224,"id":"6d","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderButton.js"}
+{"_e":"metro:bundling:started","_t":1789173020224,"id":"6e","platform":"web","environment":null,"entry":"node_modules/@react-navigation/native-stack/lib/module/utils/useAnimatedHeaderHeight.js"}
+{"_e":"metro:bundling:started","_t":1789173020224,"id":"6f","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/createAnimatedComponent.js"}
+{"_e":"metro:bundling:started","_t":1789173020225,"id":"6g","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedSubtraction.js"}
+{"_e":"metro:bundling:started","_t":1789173020225,"id":"6h","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/requestIdleCallback/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020296,"id":"6i","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Utilities/clamp.js"}
+{"_e":"metro:bundling:started","_t":1789173020307,"id":"6j","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/infoLog/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020348,"id":"6k","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Batchinator/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020372,"id":"6l","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/ViewabilityHelper/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020449,"id":"6m","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/FillRateHelper/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020549,"id":"6n","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizeUtils/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020582,"id":"6o","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedList/VirtualizedListContext.js"}
+{"_e":"metro:bundling:started","_t":1789173020590,"id":"6p","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/Image/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020695,"id":"6q","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Utilities/Platform.js"}
+{"_e":"metro:bundling:started","_t":1789173020736,"id":"6r","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/NativeAnimatedHelper.js"}
+{"_e":"metro:bundling:started","_t":1789173020817,"id":"6s","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/ImageLoader/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020853,"id":"6t","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/TurboModule/TurboModuleRegistry.js"}
+{"_e":"metro:bundling:started","_t":1789173020875,"id":"6u","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/PixelRatio/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020894,"id":"6v","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedScrollView.js"}
+{"_e":"metro:bundling:started","_t":1789173020935,"id":"6w","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedSectionList.js"}
+{"_e":"metro:bundling:started","_t":1789173020965,"id":"6x","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/SectionList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173020990,"id":"6y","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/VirtualizedSectionList/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021029,"id":"6z","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/AnimatedImplementation.js"}
+{"_e":"metro:bundling:started","_t":1789173021037,"id":"70","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedAddition.js"}
+{"_e":"metro:bundling:started","_t":1789173021044,"id":"71","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedModulo.js"}
+{"_e":"metro:bundling:started","_t":1789173021113,"id":"72","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/animations/DecayAnimation.js"}
+{"_e":"metro:bundling:started","_t":1789173021127,"id":"73","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/Easing/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021141,"id":"74","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedColor.js"}
+{"_e":"metro:bundling:started","_t":1789173021147,"id":"75","platform":"web","environment":null,"entry":"node_modules/color/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021160,"id":"76","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/animations/Animation.js"}
+{"_e":"metro:bundling:started","_t":1789173021172,"id":"77","platform":"web","environment":null,"entry":"node_modules/color-string/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021189,"id":"78","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/animations/TimingAnimation.js"}
+{"_e":"metro:bundling:started","_t":1789173021256,"id":"79","platform":"web","environment":null,"entry":"node_modules/simple-swizzle/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021306,"id":"7a","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Button.js"}
+{"_e":"metro:bundling:started","_t":1789173021311,"id":"7b","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/getHeaderTitle.js"}
+{"_e":"metro:bundling:started","_t":1789173021365,"id":"7c","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderBackContext.js"}
+{"_e":"metro:bundling:started","_t":1789173021393,"id":"7d","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/SafeAreaContext.js"}
+{"_e":"metro:bundling:started","_t":1789173021426,"id":"7e","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/SafeAreaView.web.js"}
+{"_e":"metro:bundling:started","_t":1789173021436,"id":"7f","platform":"web","environment":null,"entry":"node_modules/color-convert/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021449,"id":"7g","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Header/HeaderHeightContext.js"}
+{"_e":"metro:bundling:started","_t":1789173021481,"id":"7h","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/InitialWindow.js"}
+{"_e":"metro:bundling:started","_t":1789173021490,"id":"7i","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/NativeSafeAreaProvider.web.js"}
+{"_e":"metro:bundling:started","_t":1789173021508,"id":"7j","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Label/getLabel.js"}
+{"_e":"metro:bundling:started","_t":1789173021528,"id":"7k","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021545,"id":"7l","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/ResourceSavingView.js"}
+{"_e":"metro:bundling:started","_t":1789173021547,"id":"7m","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/Lazy.js"}
+{"_e":"metro:bundling:started","_t":1789173021572,"id":"7n","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/MissingIcon.js"}
+{"_e":"metro:bundling:started","_t":1789173021588,"id":"7o","platform":"web","environment":null,"entry":"screens/ProfileScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173021613,"id":"7p","platform":"web","environment":null,"entry":"components/Header.js"}
+{"_e":"metro:bundling:started","_t":1789173021615,"id":"7q","platform":"web","environment":null,"entry":"node_modules/nullthrows/nullthrows.js"}
+{"_e":"metro:bundling:started","_t":1789173021630,"id":"7r","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/components/AnimatedImage.js"}
+{"_e":"metro:bundling:started","_t":1789173021648,"id":"7s","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedInterpolation.js"}
+{"_e":"metro:bundling:started","_t":1789173021652,"id":"7t","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedValueXY.js"}
+{"_e":"metro:bundling:started","_t":1789173021671,"id":"7u","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/Animated/nodes/AnimatedTracking.js"}
+{"_e":"metro:bundling:started","_t":1789173021684,"id":"7v","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/PlatformPressable.js"}
+{"_e":"metro:bundling:started","_t":1789173021707,"id":"7w","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/exports/Pressable/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021725,"id":"7x","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/modules/addEventListener/index.js"}
+{"_e":"metro:bundling:started","_t":1789173021739,"id":"7y","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/getDefaultSidebarWidth.js"}
+{"_e":"metro:bundling:started","_t":1789173021747,"id":"7z","platform":"web","environment":null,"entry":"node_modules/react-native-safe-area-context/lib/module/SafeArea.types.js"}
+{"_e":"metro:bundling:started","_t":1789173021752,"id":"80","platform":"web","environment":null,"entry":"node_modules/use-sync-external-store/with-selector.js"}
+{"_e":"metro:bundling:started","_t":1789173021758,"id":"81","platform":"web","environment":null,"entry":"node_modules/use-sync-external-store/cjs/use-sync-external-store-with-selector.production.js"}
+{"_e":"metro:bundling:started","_t":1789173021762,"id":"82","platform":"web","environment":null,"entry":"node_modules/@react-navigation/elements/lib/module/MaskedView.js"}
+{"_e":"metro:bundling:started","_t":1789173021769,"id":"83","platform":"web","environment":null,"entry":"screens/ProductsScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173021785,"id":"84","platform":"web","environment":null,"entry":"node_modules/react-native-web/dist/vendor/react-native/ReactNative/ReactNativeFeatureFlags.js"}
+{"_e":"metro:bundling:started","_t":1789173055448,"id":"85","platform":"web","environment":null,"entry":"screens/CartScreen.js"}
+{"_e":"metro:bundling:failed","_t":1789173239805,"id":null,"message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:client_log","_t":1789173239956,"level":"error","data":["[UnableToResolveError: Unable to resolve module pix-utils from /workspaces/PAM-III/forja-shop/screens/CartScreen.js: pix-utils could not be found within the project or in these directories:\n  node_modules\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |]"]}
+{"_e":"metro:bundling:failed","_t":1789173253560,"id":null,"message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:client_log","_t":1789173253804,"level":"error","data":["[UnableToResolveError: Unable to resolve module pix-utils from /workspaces/PAM-III/forja-shop/screens/CartScreen.js: pix-utils could not be found within the project or in these directories:\n  node_modules\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |]"]}
+{"_e":"metro:bundling:failed","_t":1789173302830,"id":null,"message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:client_log","_t":1789173303007,"level":"error","data":["[UnableToResolveError: Unable to resolve module pix-utils from /workspaces/PAM-III/forja-shop/screens/CartScreen.js: pix-utils could not be found within the project or in these directories:\n  node_modules\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |]"]}
+{"_e":"metro:bundling:failed","_t":1789173304862,"id":null,"message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:client_log","_t":1789173305108,"level":"error","data":["[UnableToResolveError: Unable to resolve module pix-utils from /workspaces/PAM-III/forja-shop/screens/CartScreen.js: pix-utils could not be found within the project or in these directories:\n  node_modules\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |]"]}
+{"_e":"metro:bundling:started","_t":1789173344397,"id":"86","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789173344398,"id":"86","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173344398,"id":"86","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789173344448,"id":"86","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173354163,"id":"88","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789173354165,"id":"88","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173354166,"id":"88","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173354290,"id":"88","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789173354300,"id":"88","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173376865,"id":"8a","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789173376865,"id":"8a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173376866,"id":"8a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789173376871,"id":"8a","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/CartScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"pix-utils\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/CartScreen\"\u001b[39m\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"root:init","_t":1789173397920,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789173397920,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789173397922,"mode":"development","files":[],"env":{}}
+{"_e":"root:init","_t":1789173425148,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789173425148,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789173425152,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789173425320,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789173425583,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1789173425823,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM-III/forja-shop/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1789173425900,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789173425988,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1789173434093,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789173441470,"id":"1","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"Import stack:\n\n screens/CartScreen.js\n | import \"pix-utils\"\n\n App.js\n | import \"./screens/CartScreen\"\n\n index.js\n | import \"./App\"\n\n \n | import \"./index\"\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"root:init","_t":1789173468002,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789173468002,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789173468004,"mode":"development","files":[],"env":{}}
+{"_e":"metro:bundling:started","_t":1789173509435,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789173509664,"id":"3","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"Import stack:\n\n screens/CartScreen.js\n | import \"pix-utils\"\n\n App.js\n | import \"./screens/CartScreen\"\n\n index.js\n | import \"./App\"\n\n \n | import \"./index\"\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173513109,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789173513311,"id":"5","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"Import stack:\n\n screens/CartScreen.js\n | import \"pix-utils\"\n\n App.js\n | import \"./screens/CartScreen\"\n\n index.js\n | import \"./App\"\n\n \n | import \"./index\"\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"metro:bundling:started","_t":1789173533942,"id":"6","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789173534122,"id":"6","message":"Unable to resolve \"pix-utils\" from \"screens/CartScreen.js\"\n  2 | import { View, Text, StyleSheet, FlatList, Pressable, TextInput, Image } from 'react-native';\n  3 | import QRCode from 'qrcode';\n> 4 | import { createDynamicPix, hasError } from 'pix-utils';\n    |                                             ^\n  5 |\n  6 | import { products } from '../data/products';\n  7 |","importStack":"Import stack:\n\n screens/CartScreen.js\n | import \"pix-utils\"\n\n App.js\n | import \"./screens/CartScreen\"\n\n index.js\n | import \"./App\"\n\n \n | import \"./index\"\n","filename":null,"targetModuleName":"pix-utils","originModulePath":"screens/CartScreen.js"}
+{"_e":"root:init","_t":1789173565363,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789173565364,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789173565365,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789173565533,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789173565805,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1789173565931,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM-III/forja-shop/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1789173566234,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789173566326,"atlas":false,"workers":1,"host":"::","port":8083}
+{"_e":"metro:bundling:started","_t":1789173573754,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789173582526,"id":"1","total":594,"ms":8767.280385}
+{"_e":"metro:client_log","_t":1789173585113,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173585114,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173585114,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789173707392,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789173707417,"id":"3","total":1,"ms":24.963878}
+{"_e":"metro:client_log","_t":1789173709007,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173709007,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173709007,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789173718943,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789173719010,"id":"5","total":1,"ms":66.476229}
+{"_e":"metro:client_log","_t":1789173720543,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173720544,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173720544,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789173843703,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789173843728,"id":"7","total":1,"ms":24.327653}
+{"_e":"metro:client_log","_t":1789173845217,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173845217,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173845217,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1789173856654,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789173856654,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789173856656,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789173860086,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789173860326,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1789173860409,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM-III/forja-shop/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1789173860526,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789173863700,"atlas":false,"workers":1,"host":"::","port":8084}
+{"_e":"metro:bundling:started","_t":1789173865119,"id":"9","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789173865152,"id":"9","total":1,"ms":32.469542}
+{"_e":"metro:client_log","_t":1789173866654,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173866655,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173866655,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789173868018,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789173868019,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173868022,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789173868213,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789173868320,"id":"1","progress":0.04938271604938271,"total":18,"current":4}
+{"_e":"metro:bundling:progress","_t":1789173868426,"id":"1","progress":0.05039566847147022,"total":49,"current":11}
+{"_e":"metro:bundling:progress","_t":1789173868589,"id":"1","progress":0.05039566847147022,"total":80,"current":15}
+{"_e":"metro:bundling:progress","_t":1789173868696,"id":"1","progress":0.05039566847147022,"total":80,"current":16}
+{"_e":"metro:bundling:progress","_t":1789173868800,"id":"1","progress":0.1064819944598338,"total":95,"current":31}
+{"_e":"metro:bundling:progress","_t":1789173868900,"id":"1","progress":0.1936,"total":100,"current":44}
+{"_e":"metro:bundling:progress","_t":1789173869051,"id":"1","progress":0.2307766243752403,"total":102,"current":49}
+{"_e":"metro:bundling:progress","_t":1789173869170,"id":"1","progress":0.3176859504132231,"total":110,"current":62}
+{"_e":"metro:bundling:progress","_t":1789173869295,"id":"1","progress":0.3176859504132231,"total":165,"current":71}
+{"_e":"metro:bundling:progress","_t":1789173869403,"id":"1","progress":0.3176859504132231,"total":176,"current":78}
+{"_e":"metro:bundling:progress","_t":1789173869509,"id":"1","progress":0.3176859504132231,"total":193,"current":85}
+{"_e":"metro:bundling:progress","_t":1789173869634,"id":"1","progress":0.3176859504132231,"total":196,"current":89}
+{"_e":"metro:bundling:progress","_t":1789173869733,"id":"1","progress":0.3176859504132231,"total":202,"current":107}
+{"_e":"metro:bundling:progress","_t":1789173869833,"id":"1","progress":0.3176859504132231,"total":220,"current":115}
+{"_e":"metro:bundling:progress","_t":1789173869936,"id":"1","progress":0.3176859504132231,"total":228,"current":123}
+{"_e":"metro:bundling:progress","_t":1789173870098,"id":"1","progress":0.346620190776035,"total":231,"current":136}
+{"_e":"metro:bundling:progress","_t":1789173870198,"id":"1","progress":0.36284022568045143,"total":254,"current":153}
+{"_e":"metro:bundling:progress","_t":1789173870305,"id":"1","progress":0.3737130651477394,"total":265,"current":162}
+{"_e":"metro:bundling:progress","_t":1789173870411,"id":"1","progress":0.3737130651477394,"total":308,"current":179}
+{"_e":"metro:bundling:progress","_t":1789173870511,"id":"1","progress":0.3737130651477394,"total":328,"current":193}
+{"_e":"metro:bundling:progress","_t":1789173870615,"id":"1","progress":0.38601589580196766,"total":338,"current":210}
+{"_e":"metro:bundling:progress","_t":1789173870722,"id":"1","progress":0.4289866967613966,"total":342,"current":224}
+{"_e":"metro:bundling:progress","_t":1789173870839,"id":"1","progress":0.501394968091149,"total":346,"current":245}
+{"_e":"metro:bundling:progress","_t":1789173870953,"id":"1","progress":0.5125258264462811,"total":352,"current":252}
+{"_e":"metro:bundling:progress","_t":1789173871055,"id":"1","progress":0.5337114197530863,"total":360,"current":263}
+{"_e":"metro:bundling:progress","_t":1789173871205,"id":"1","progress":0.571683521713266,"total":369,"current":279}
+{"_e":"metro:bundling:progress","_t":1789173871311,"id":"1","progress":0.6095684749349424,"total":374,"current":292}
+{"_e":"metro:bundling:progress","_t":1789173871487,"id":"1","progress":0.6185167100694445,"total":384,"current":302}
+{"_e":"metro:bundling:progress","_t":1789173871591,"id":"1","progress":0.6185167100694445,"total":410,"current":319}
+{"_e":"metro:bundling:progress","_t":1789173871694,"id":"1","progress":0.6369267751479291,"total":416,"current":332}
+{"_e":"metro:bundling:progress","_t":1789173871801,"id":"1","progress":0.6832730575882555,"total":421,"current":348}
+{"_e":"metro:bundling:progress","_t":1789173871923,"id":"1","progress":0.6969952024240383,"total":436,"current":364}
+{"_e":"metro:bundling:progress","_t":1789173872043,"id":"1","progress":0.6969952024240383,"total":453,"current":378}
+{"_e":"metro:bundling:progress","_t":1789173872143,"id":"1","progress":0.7112352410248854,"total":466,"current":393}
+{"_e":"metro:bundling:progress","_t":1789173872273,"id":"1","progress":0.733645438330223,"total":467,"current":400}
+{"_e":"metro:bundling:progress","_t":1789173872373,"id":"1","progress":0.7750018262838775,"total":468,"current":412}
+{"_e":"metro:bundling:progress","_t":1789173872473,"id":"1","progress":0.7860559039217769,"total":485,"current":430}
+{"_e":"metro:bundling:progress","_t":1789173872596,"id":"1","progress":0.7978487913681804,"total":487,"current":435}
+{"_e":"metro:bundling:progress","_t":1789173872705,"id":"1","progress":0.7997884856897349,"total":492,"current":440}
+{"_e":"metro:bundling:progress","_t":1789173872814,"id":"1","progress":0.8201520943210594,"total":498,"current":451}
+{"_e":"metro:bundling:progress","_t":1789173872922,"id":"1","progress":0.8574760000000001,"total":500,"current":463}
+{"_e":"metro:bundling:progress","_t":1789173873028,"id":"1","progress":0.8775172241403553,"total":506,"current":474}
+{"_e":"metro:bundling:progress","_t":1789173873225,"id":"1","progress":0.8775172241403553,"total":522,"current":487}
+{"_e":"metro:bundling:progress","_t":1789173873341,"id":"1","progress":0.888567574187746,"total":523,"current":493}
+{"_e":"metro:bundling:progress","_t":1789173873441,"id":"1","progress":0.888567574187746,"total":529,"current":497}
+{"_e":"metro:bundling:progress","_t":1789173873543,"id":"1","progress":0.888567574187746,"total":546,"current":504}
+{"_e":"metro:bundling:progress","_t":1789173875173,"id":"1","progress":0.888567574187746,"total":547,"current":505}
+{"_e":"metro:bundling:progress","_t":1789173875296,"id":"1","progress":0.9011237135055661,"total":552,"current":524}
+{"_e":"metro:bundling:progress","_t":1789173875400,"id":"1","progress":0.9096136067172402,"total":562,"current":536}
+{"_e":"metro:bundling:progress","_t":1789173875504,"id":"1","progress":0.9377318454044805,"total":569,"current":551}
+{"_e":"metro:bundling:progress","_t":1789173875609,"id":"1","progress":0.9394082840236686,"total":585,"current":567}
+{"_e":"metro:bundling:progress","_t":1789173875710,"id":"1","progress":0.9666133841218015,"total":594,"current":584}
+{"_e":"metro:bundling:progress","_t":1789173875867,"id":"1","progress":0.999,"total":594,"current":594}
+{"_e":"metro:bundling:done","_t":1789173875961,"id":"1","total":594,"ms":7942.440426}
+{"_e":"metro:bundling:started","_t":1789173883948,"id":"2","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789173883948,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789173883974,"id":"2","total":1,"ms":25.546964}
+{"_e":"metro:client_log","_t":1789173886165,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789173886166,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789173886166,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789173893535,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789174054890,"id":null,"message":"Unable to resolve \"./screens/AuthScreen\" from \"App.js\"\n   9 | import CartScreen from './screens/CartScreen';\n  10 | import ProfileScreen from './screens/ProfileScreen';\n> 11 | import AuthScreen from './screens/AuthScreen';\n     |                         ^\n  12 |\n  13 | const Stack = createNativeStackNavigator();\n  14 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/AuthScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./screens/AuthScreen","originModulePath":"App.js"}
+{"_e":"metro:client_log","_t":1789174055032,"level":"error","data":["[UnableToResolveError: Unable to resolve module ./screens/AuthScreen from /workspaces/PAM-III/forja-shop/App.js: \n\nNone of these files exist:\n  * screens/AuthScreen(.web.ts|.ts|.web.tsx|.tsx|.web.mjs|.mjs|.web.js|.js|.web.jsx|.jsx|.web.json|.json|.web.cjs|.cjs|.web.scss|.scss|.web.sass|.sass|.web.css|.css)\n  * screens/AuthScreen\n   9 | import CartScreen from './screens/CartScreen';\n  10 | import ProfileScreen from './screens/ProfileScreen';\n> 11 | import AuthScreen from './screens/AuthScreen';\n     |                         ^\n  12 |\n  13 | const Stack = createNativeStackNavigator();\n  14 |]"]}
+{"_e":"metro:bundling:failed","_t":1789174063653,"id":null,"message":"Unable to resolve \"./screens/AuthScreen\" from \"App.js\"\n   9 | import CartScreen from './screens/CartScreen';\n  10 | import ProfileScreen from './screens/ProfileScreen';\n> 11 | import AuthScreen from './screens/AuthScreen';\n     |                         ^\n  12 |\n  13 | const Stack = createNativeStackNavigator();\n  14 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/AuthScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./screens/AuthScreen","originModulePath":"App.js"}
+{"_e":"metro:client_log","_t":1789174063903,"level":"error","data":["[UnableToResolveError: Unable to resolve module ./screens/AuthScreen from /workspaces/PAM-III/forja-shop/App.js: \n\nNone of these files exist:\n  * screens/AuthScreen(.web.ts|.ts|.web.tsx|.tsx|.web.mjs|.mjs|.web.js|.js|.web.jsx|.jsx|.web.json|.json|.web.cjs|.cjs|.web.scss|.scss|.web.sass|.sass|.web.css|.css)\n  * screens/AuthScreen\n   9 | import CartScreen from './screens/CartScreen';\n  10 | import ProfileScreen from './screens/ProfileScreen';\n> 11 | import AuthScreen from './screens/AuthScreen';\n     |                         ^\n  12 |\n  13 | const Stack = createNativeStackNavigator();\n  14 |]"]}
+{"_e":"metro:bundling:started","_t":1789174314075,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789174314075,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789174314106,"id":"5","total":1,"ms":30.855935}
+{"_e":"metro:client_log","_t":1789174315456,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174315456,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174315456,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174318467,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:failed","_t":1789174338252,"id":null,"message":"Error: /workspaces/PAM-III/forja-shop/data/products.js: Missing semicolon. (70:3)\n\n  68 | }));\n  69 | cd /workspaces/PAM-III/forja-shop\n> 70 | npx expo start --web --clear --port 8083\n     |    ^","importStack":null,"filename":"data/products.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1789174338380,"level":"error","data":["[TransformError: Error: /workspaces/PAM-III/forja-shop/data/products.js: Missing semicolon. (70:3)\n\n  68 | }));\n  69 | cd /workspaces/PAM-III/forja-shop\n> 70 | npx expo start --web --clear --port 8083\n     |    ^]"]}
+{"_e":"metro:bundling:started","_t":1789174342644,"id":"8","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789174342644,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789174342645,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789174342651,"id":"8","message":"Error: /workspaces/PAM-III/forja-shop/data/products.js: Missing semicolon. (70:3)\n\n  68 | }));\n  69 | cd /workspaces/PAM-III/forja-shop\n> 70 | npx expo start --web --clear --port 8083\n     |    ^","importStack":null,"filename":"data/products.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1789174405811,"id":"a","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789174405811,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789174405815,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789174405826,"id":"a","message":"Error: /workspaces/PAM-III/forja-shop/data/products.js: Missing semicolon. (70:3)\n\n  68 | }));\n  69 | cd /workspaces/PAM-III/forja-shop\n> 70 | npx expo start --web --clear --port 8083\n     |    ^","importStack":null,"filename":"data/products.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1789174469175,"id":"c","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789174469175,"id":"c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789174469176,"id":"c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789174469253,"id":"c","total":1,"ms":75.555211}
+{"_e":"metro:client_log","_t":1789174470659,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174470660,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174470660,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174490007,"id":"b","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789174490032,"id":"b","total":1,"ms":25.161903}
+{"_e":"metro:client_log","_t":1789174491523,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174491523,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174491523,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174523414,"id":"e","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789174523414,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789174523440,"id":"e","total":1,"ms":25.268091}
+{"_e":"metro:client_log","_t":1789174524604,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174524604,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174524604,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1789174623649,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1789174623650,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789174623651,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789174623839,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789174624155,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1789174624246,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM-III/forja-shop/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1789174624397,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789174624488,"atlas":false,"workers":1,"host":"::","port":8083}
+{"_e":"metro:bundling:started","_t":1789174649089,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:started","_t":1789174657465,"id":"2","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789174657935,"id":"1","total":601,"ms":8845.629668}
+{"_e":"metro:bundling:done","_t":1789174657950,"id":"2","total":1,"ms":484.374759}
+{"_e":"metro:client_log","_t":1789174660329,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174660330,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174660330,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174672546,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789174672573,"id":"4","total":1,"ms":27.034004}
+{"_e":"metro:client_log","_t":1789174673848,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174673849,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174673849,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174676248,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:started","_t":1789174810433,"id":"6","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789174810460,"id":"6","total":1,"ms":26.645006}
+{"_e":"metro:bundling:started","_t":1789174811529,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:client_log","_t":1789174811724,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174811724,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174811724,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1789174973033,"id":"9","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:done","_t":1789174973057,"id":"9","total":1,"ms":24.596122}
+{"_e":"metro:bundling:started","_t":1789174974392,"id":"b","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:client_log","_t":1789174974555,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789174974555,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1789174974555,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
